@@ -1,5 +1,5 @@
 {
-  "name": "lerna-fun",
+  "name": "@andrewferk/lerna-fun",
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
