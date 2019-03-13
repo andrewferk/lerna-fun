@@ -1,10 +1,10 @@
 {
   "name": "@andrewferk/fun",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "main": "index.js",
   "dependencies": {
     "@andrewferk/alpha": "^1.1.0",
-    "@andrewferk/beta": "^1.1.0"
+    "@andrewferk/beta": "^1.1.1"
   }
 }
