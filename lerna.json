@@ -2,5 +2,11 @@
   "version": "independent",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "packages": ["packages/*"]
+  "packages": ["packages/*"],
+  "command": {
+    "version": {
+      "conventionalCommits": true,
+      "githubRelease": true
+    }
+  }
 }
