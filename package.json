@@ -1,5 +1,8 @@
 {
   "name": "lerna-fun",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
 }
